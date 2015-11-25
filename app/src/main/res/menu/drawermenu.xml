@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_item_Fashion"
+        android:icon="@drawable/inbox"
+        android:title="Fashion" />
+    <item
+        android:id="@+id/nav_item_Electronics"
+        android:icon="@drawable/draft"
+        android:title="Electronics" />
+
+    <item
+        android:id="@+id/nav_item_Food_n_Dining"
+        android:icon="@drawable/sent"
+        android:title="Food &amp; Dining" />
+
+    <item
+        android:id="@+id/nav_item_Travel"
+        android:icon="@drawable/draft"
+        android:title="Travel" />
+
+    <item
+        android:id="@+id/nav_item_Hospitals"
+        android:icon="@drawable/inbox"
+        android:title="Hospitals" />
+
+    <item
+        android:id="@+id/nav_item_Diagnostics"
+        android:icon="@drawable/sent"
+        android:title="Diagnostics" />
+
+    <item
+        android:id="@+id/nav_item_Hotels_n_Resorts"
+        android:icon="@drawable/draft"
+        android:title="Hotels &amp; Resorts" />
+
+    <item
+        android:id="@+id/nav_item_Supermarkets"
+        android:icon="@drawable/inbox"
+        android:title="Supermarkets" />
+
+    <item
+        android:id="@+id/nav_item_RealEstate"
+        android:icon="@drawable/sent"
+        android:title="Real Estate" />
+
+    <item
+        android:id="@+id/nav_item_Finance"
+        android:icon="@drawable/inbox"
+        android:title="Finance" />
+
+    <item
+        android:id="@+id/nav_item_AutoMobile"
+        android:icon="@drawable/sent"
+        android:title="Automobile" />
+
+    <!--<item android:title="Others">
+        <menu>
+            <item
+                android:icon="@drawable/spam"
+                android:title="Spam" />
+            <item
+                android:icon="@drawable/bin"
+                android:title="Bin" />
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_settings_id">
+
+        <item
+            android:icon="@drawable/settings"
+            android:title="Settings" />
+        <item
+            android:icon="@drawable/help"
+            android:title="Help" />
+    </group>-->
+
+
+</menu>

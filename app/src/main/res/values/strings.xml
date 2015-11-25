@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">2day Best Offers</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="fashion">&#xf1b9;</string>
+    <string name="electronics">&#xf1b9;</string>
+    <string name="food_dining">&#xf1b9;</string>
+    <string name="travel">&#xf236;</string>
+    <string name="hospitals">&#xf0f8;</string>
+    <string name="diagnostics">&#xf1b9;</string>
+    <string name="hotels_resorts">&#xf236;</string>
+    <string name="supermarkets">[&#xf07a;</string>
+    <string name="real_estate">&#xf015;</string>
+    <string name="finance">&#xf0d6;</string>
+    <string name="auto_mobile">&#xf1b9;</string>
+
+
+    <string name="icon_like">&#xf088;</string>
+    <string name="icon_like_new">&#xf164;</string>
+    <string name="icon_dislike">&#xf087;</string>
+    <string name="icon_food_spoon">&#xf1b1;</string>
+
+    <string name="icon_fb_one">&#xf082;</string>
+    <string name="icon_fb_two">&#xf09a;</string>
+    <string name="icon_fb_three">&#xf230;</string>
+    <string name="icon_whatsapp">&#xf232;</string>
+    <string name="google_map_key">AIzaSyDa9Ih_hMBEM1muNXSef_Rw293M-4haQhA</string>
+
+
+</resources>
